@@ -1,0 +1,39 @@
+.loading {
+  margin: 12%;
+}
+
+.goto-cart-btn {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+}
+
+.custom-btn {
+  padding: 10px;
+  border-radius: 6px;
+  margin: 3px;
+}
+
+.product {
+  border-bottom: 1px #ccc solid;
+}
+
+.inline {
+  display: inline-flex;
+}
+
+body {
+  padding: 10px;
+  margin: 5px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 10px;
+  margin: 5px;
+}
